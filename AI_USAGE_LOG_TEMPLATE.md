@@ -13,4 +13,4 @@ This log records AI assistance used while preparing the Computer Networks assign
 * Git commits, if available.
 * Actual test results and any corrections made.
 
-**Note:** Add separate entries for earlier AI assistance with coding or debugging if applicable. Confirm the model name shown in your interface before submitting.
+
